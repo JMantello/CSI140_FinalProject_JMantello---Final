@@ -1,5 +1,4 @@
 # CSI140 Final Project - Web Portfolio
 
-This was our web portfolio project for CSI140 Front-End Web Development in Spring of 2021. If I were to do it differently now, 
-I would focus on using less containers, classes, and id's, and try to focus on the readability of my code, and I think with this project
-I accidently went too far with those. 
+This was my final for my Front-End Web Development class in Spring of 2021. Looking back at this project, I think I accidently used too many containers, classes, 
+and id's. I am now making another web portfolio and I am focusing on keeping my code simple, and only making complexity when necessary to add desired features. 
